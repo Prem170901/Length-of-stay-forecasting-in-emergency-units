@@ -1,10 +1,10 @@
-## 🩺 **Healthcare Data Analysis & Regression Modeling**
+## **Healthcare Data Analysis & Regression Modeling**
 
 This project focuses on understanding and predicting healthcare-related outcomes through structured data analysis and machine learning modeling. The steps involved span from exploratory data analysis to building interpretable regression models using both linear and non-linear approaches.
 
 ---
 
-### 📊 **1. Exploratory Data Analysis (EDA)**
+### **1. Exploratory Data Analysis (EDA)**
 
 - **Univariate Analysis**  
   Examined the distribution of each variable individually using histograms, box plots, and density plots to understand the spread, skewness, and presence of outliers.
@@ -17,7 +17,7 @@ This project focuses on understanding and predicting healthcare-related outcomes
 
 ---
 
-### 🧹 **2. Data Preprocessing & Feature Engineering**
+### **2. Data Preprocessing & Feature Engineering**
 
 - **Data Cleaning**  
   Handled missing values, outliers, and inconsistent entries to prepare a robust dataset for modeling.
@@ -32,14 +32,14 @@ This project focuses on understanding and predicting healthcare-related outcomes
 
 ---
 
-### 🧪 **3. Model Preparation**
+### **3. Model Preparation**
 
 - **Train-Test Split**  
   The dataset was divided into training and test sets to evaluate generalization performance. A standard 80/20 split was used, with cross-validation applied during training.
 
 ---
 
-### 🤖 **4. Model Building: Linear & Non-Linear Regression**
+### **4. Model Building: Linear & Non-Linear Regression**
 
 A variety of regression models were implemented and compared:
 
@@ -65,7 +65,7 @@ A variety of regression models were implemented and compared:
 
 ---
 
-### 📏 **5. Model Evaluation Metrics**
+### **5. Model Evaluation Metrics**
 
 Each model was assessed using the following metrics:
 
@@ -77,7 +77,7 @@ All models were compared using these metrics to identify the best-performing alg
 
 ---
 
-### ✅ **6. Final Model Selection & Prediction**
+### **6. Final Model Selection & Prediction**
 
 - **Best Model Selection**  
   Based on evaluation metrics, the best-performing model was selected.
@@ -88,7 +88,7 @@ All models were compared using these metrics to identify the best-performing alg
 
 ---
 
-### 📌 **7. Model Interpretability with SHAP**
+### **7. Model Interpretability with SHAP**
 
 - **SHAP (SHapley Additive exPlanations)** was used to interpret how each feature contributes to individual predictions.  
 - Plotted SHAP summary and dependence plots to:  
@@ -100,7 +100,7 @@ All models were compared using these metrics to identify the best-performing alg
 
 ---
 
-### 📁 **Project Highlights**
+### **Project Highlights**
 
 - **Comprehensive EDA** to build intuition about the dataset.  
 - **A full pipeline** from preprocessing to advanced ensemble modeling.  
